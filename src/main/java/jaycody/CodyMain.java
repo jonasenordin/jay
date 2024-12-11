@@ -17,6 +17,14 @@ package jaycody;
  */
 public class CodyMain { //
 	
+	/**
+	 * 
+	 * Cody chat:
+	 * 
+	 * /file https://github.com/jonasenordin/jay src/main/java/jaycody/CodyMain.java
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		System.out.print("Just sayin...");
 	}
